@@ -1,2 +1,2 @@
 # hello-world
-a short
+A short description would have been nice.
